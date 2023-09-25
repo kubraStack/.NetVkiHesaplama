@@ -1,2 +1,2 @@
 # .NetVkiHesaplama
-C# .net ile vki hesaplama
+ .net ile vki hesaplama
